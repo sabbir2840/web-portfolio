@@ -6,8 +6,7 @@ h1{
     font-size: 40px;
 }
 p{
-   color: indigo;
-    
+   color: indigo;  
 }
 .name-highlight{
  color: indigo;
@@ -16,8 +15,7 @@ p{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding: 5px;
-   
+    padding: 5px; 
 }
 .half-width img{
     width: 100%;
@@ -36,7 +34,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(216, 40, 143),  rgb(145, 61, 206), indigo) ;
+    background-image: linear-gradient(rgb(216, 40, 143),rgb(145, 61, 206)indigo) ;
     color: lawngreen;
     padding: 8px 8px;
     border-radius: 9px;
@@ -52,8 +50,7 @@ section{
     font-weight: 700;
     color: rgb(110, 170, 42);
     text-align: center;
-    border-radius: 10px;
-    
+    border-radius: 10px; 
 }
 .box-shadow{
   box-shadow: 10px 10px 40px rgb(102, 96, 88);
@@ -70,7 +67,6 @@ section{
     border-left: 5px solid;
     border-image: linear-gradient(red, violet);
     border-image-slice: 1;
-
 }
 #begineer{
     border-left: 5px solid;
