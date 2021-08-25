@@ -5,6 +5,10 @@ body{
 h1{
     font-size: 40px;
 }
+p{
+   color: indigo;
+    
+}
 .name-highlight{
  color: indigo;
 }
@@ -12,7 +16,7 @@ h1{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding: 1px;
+    padding: 5px;
    
 }
 .half-width img{
@@ -25,13 +29,20 @@ h1{
 section{
     border: 1px red;
     height: 500px;
+    padding-bottom: 40px;
 }
 #image{
     height: 400px;
 }
 .link-button{
     text-decoration: none;
-    background-color: indigo;
+    background-image: linear-gradient(rgb(216, 40, 143),  rgb(145, 61, 206), indigo) ;
     color: lawngreen;
-    padding: 2px 5px;
+    padding: 8px 8px;
+    border-radius: 9px;
+    font-weight: 700;
+}
+.last-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
 }
