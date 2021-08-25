@@ -26,3 +26,12 @@ section{
     border: 1px red;
     height: 500px;
 }
+#image{
+    height: 400px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: indigo;
+    color: lawngreen;
+    padding: 2px 5px;
+}
