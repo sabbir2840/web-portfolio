@@ -34,7 +34,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(216, 40, 143),rgb(145, 61, 206)indigo) ;
+    background-image: linear-gradient(rgb(216, 40, 143),rgb(145, 61, 206),indigo) ;
     color: lawngreen;
     padding: 8px 8px;
     border-radius: 9px;
