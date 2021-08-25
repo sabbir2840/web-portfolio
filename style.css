@@ -47,3 +47,24 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.exp{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(110, 170, 42);
+    padding-left: 500px;
+    border-radius: 10px;
+    
+}
+.box-shadow{
+  box-shadow: 10px 10px 40px rgb(102, 96, 88);
+  border-radius: 10px;
+  height: 50%;
+} 
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px indigo;
+}
