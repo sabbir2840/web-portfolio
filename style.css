@@ -65,6 +65,9 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+#begineer{
+    border-left: 100px solid;
+}
 #full-stack{
-    border-left: 7px indigo;
+    border-left: 100px rebeccapurple;
 }
